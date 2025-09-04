@@ -1,5 +1,7 @@
 # 🌱 从 0 开始 Spring AI
 
+**GitHub仓库由于公司网络原因暂时不维护，更多示例（ReAct Agent、RAG、MCP等）请访问Gitee仓库：https://gitee.com/xhyym/springaibook**
+
 > 一个全面、易懂、可运行的 Spring AI 学习指南，助你快速构建 AI 增强型 Java 应用。
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
